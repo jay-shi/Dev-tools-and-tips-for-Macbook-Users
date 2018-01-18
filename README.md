@@ -11,14 +11,15 @@
 ### Helpful Unix Command:
 1. <a href="#">unix basics</a>
 2. alias
-3. <b>keyboard shortcuts in unix terminal</b>
-<ul>
-	<li>'control + C' will halt the current execution</li>
-	<li>'control + U' will remove the current line in terminal</li>
-	<li>'control + W' will remove one word in the current line</li>
-	<li>'esc + B' will move backward one word in the current line</li>
-	<li>'esc + F' will move forward one word in the current line</li>
-</ul>
+3. 
+	<b>keyboard shortcuts in unix terminal</b>
+	<ul>
+		<li>'control + C' will halt the current execution</li>
+		<li>'control + U' will remove the current line in terminal</li>
+		<li>'control + W' will remove one word in the current line</li>
+		<li>'esc + B' will move backward one word in the current line</li>
+		<li>'esc + F' will move forward one word in the current line</li>
+	</ul>
 
 ### Helpful Macbook configuration:
 1. automator-services and global keyboard shortcuts
