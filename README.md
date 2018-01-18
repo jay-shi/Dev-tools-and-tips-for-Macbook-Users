@@ -32,7 +32,7 @@
 5. highlighted shell: zsh + oh my zsh
 
 ### Helpful keyboard shortcuts
-1. Inputing: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
+1. Text inputing: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
 2. Quick tab switch in browser (Tested on Safari and Chrome): 'shift + command + &#8592;/&#8594;' moves the left/right tab
 3. Quick tab switch in browser (Tested on Safari): 'command + numbers (ranges from 1 to 9)'
 4. Open console in browser: 'option + command + i'
