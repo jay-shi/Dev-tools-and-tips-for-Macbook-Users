@@ -1,6 +1,6 @@
 # Dev tools and tips for Macbook users
 
-### The objective of this repo is to help developers that use Macbook to have a efficient dev environment
+### The objective of this repo is to help developers to use Macbook more efficiently and comfortably. Feel free to add more tips and tricks.
 
 ### MacOS Dev Tools: 
 1. Producitivity Application(Highly recommend): <a href="https://www.alfredapp.com"><b>Alfred</b></a>
