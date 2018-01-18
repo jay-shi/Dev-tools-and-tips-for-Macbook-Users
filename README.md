@@ -7,11 +7,11 @@
 3. Lightweight Text Editor: <b>Sublime Text 2/3</b>
 4. Desktop application size controller: <b>Shiftit</b>
 5. Keep screen active: <b>Caffeine</b>
+6. Application Manager: <b>brew</b>
 
 ### Helpful Unix Command:
 1. <a href="#">unix basics</a>
-2. alias
-3. 
+2. 
 	<b>keyboard shortcuts in unix terminal</b>
 	<ul>
 		<li>'control + C' will halt the current execution</li>
@@ -23,7 +23,9 @@
 
 ### Helpful Macbook configuration:
 1. automator-services and global keyboard shortcuts
-2. use alfred and lock screen easily
+2. lock screen easily using Alfred
+3. open files/folders quickly using Alfred
+4. set alias in the bash/zsh profile
 
 ### Helpful keyboard shortcuts
 1. Inputing: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
