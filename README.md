@@ -6,7 +6,7 @@
 2. Highlighted Terminal: <b>Iterm2 + Zsh + Oh my Zsh</b>
 3. Lightweight Text Editor: <b>Sublime Text 2/3</b>
 4. Desktop application size controller: <b>Shiftit</b>
-5. Tool that keep screen on: <b>Caffeine</b>
+5. Keep screen active: <b>Caffeine</b>
 
 ### Helpful Unix Command:
 1. <a href="#">unix basics</a>
@@ -23,6 +23,10 @@
 
 ### Helpful Macbook configuration:
 1. automator-services and global keyboard shortcuts
+2. use alfred and lock screen easily
 
 ### Helpful keyboard shortcuts
-1. Texting: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
+1. Inputing: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
+2. Quick tab switch in browser (Tested on Safari and Chrome): 'shift + command + &#8592;/&#8594;' moves the left/right tab
+3. Quick tab switch in browser (Tested on Safari): 'command + numbers (ranges from 1 to 9)'
+4. Open console in browser: 'option + command + i'
