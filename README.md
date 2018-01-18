@@ -3,7 +3,7 @@
 
 ### MacOS Dev Tools: 
 1. Producitivity Application(Highly recommend): <b>Alfred</b>
-2. Highlighted Terminal: <b>Iterm2 + Zsh + Oh my Zsh</b>
+2. Terminal: <b>Iterm2</b>
 3. Lightweight Text Editor: <b>Sublime Text 2/3</b>
 4. Desktop application size controller: <b>Shiftit</b>
 5. Keep screen active: <b>Caffeine</b>
@@ -26,9 +26,14 @@
 2. lock screen easily using Alfred
 3. open files/folders quickly using Alfred
 4. set alias in the bash/zsh profile
+5. highlighted shell: zsh + oh my zsh
 
 ### Helpful keyboard shortcuts
 1. Inputing: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
 2. Quick tab switch in browser (Tested on Safari and Chrome): 'shift + command + &#8592;/&#8594;' moves the left/right tab
 3. Quick tab switch in browser (Tested on Safari): 'command + numbers (ranges from 1 to 9)'
 4. Open console in browser: 'option + command + i'
+
+### Misc. Macbook Tips and Tricks
+1. Time Machine
+2. Airdrops
