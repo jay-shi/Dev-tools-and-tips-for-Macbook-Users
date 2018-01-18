@@ -1,5 +1,5 @@
 # Tips for MacOS developers
-## This repo will contains development tools and tips for new/old Mac developers
+## This repo will describe development tools and tips for new/old Mac developers.
 
 MacOS Dev Tools: 
 1. Producitivity Application: <b>Alfred</b>
