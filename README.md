@@ -1,4 +1,5 @@
-# Tips of using Macbook for developers
+# Dev tools and tips for Macbook users
+
 ### The objective of this repo is to help developers that use Macbook to have a efficient dev environment
 
 ### MacOS Dev Tools: 
