@@ -3,17 +3,17 @@
 ### The objective of this repo is to help developers that use Macbook to have a efficient dev environment
 
 ### MacOS Dev Tools: 
-1. Producitivity Application(Highly recommend): <b>Alfred</b>
+1. Producitivity Application(Highly recommend): <a href="https://www.alfredapp.com"><b>Alfred</b></a>
 2. Terminal: <b>Iterm2</b>
 3. Lightweight Text Editor: <b>Sublime Text 2/3</b>
 4. Desktop application size controller: <b>Shiftit</b>
 5. Keep screen active: <b>Caffeine</b>
 6. Application Manager: <b>brew</b>
-7. Web-dev browser: Google Chrome
-8. IDE: VScode
+7. Web-dev browser: <b>Google Chrome</b>
+8. IDE: <b>VScode</b>
 
 ### Helpful Unix Shell Script:
-1. <a href="#">unix basics</a>
+1. <a href="https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html">unix basics</a>
 2. 
 	<b>keyboard shortcuts in unix terminal</b>
 	<ul>
