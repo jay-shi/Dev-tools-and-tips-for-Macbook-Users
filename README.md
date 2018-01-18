@@ -8,8 +8,10 @@
 4. Desktop application size controller: <b>Shiftit</b>
 5. Keep screen active: <b>Caffeine</b>
 6. Application Manager: <b>brew</b>
+7. Web-dev browser: Google Chrome
+8. IDE: VScode
 
-### Helpful Unix Command:
+### Helpful Unix Shell Script:
 1. <a href="#">unix basics</a>
 2. 
 	<b>keyboard shortcuts in unix terminal</b>
@@ -25,7 +27,7 @@
 1. automator-services and global keyboard shortcuts
 2. lock screen easily using Alfred
 3. open files/folders quickly using Alfred
-4. set alias in the bash/zsh profile
+4. set alias in the shell profile
 5. highlighted shell: zsh + oh my zsh
 
 ### Helpful keyboard shortcuts
@@ -35,5 +37,5 @@
 4. Open console in browser: 'option + command + i'
 
 ### Misc. Macbook Tips and Tricks
-1. Time Machine
-2. Airdrops
+1. use Time Machine as backup
+2. use Airdrop to share files between Mac users
