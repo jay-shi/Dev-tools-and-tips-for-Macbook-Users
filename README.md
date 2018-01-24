@@ -29,14 +29,15 @@
 2. lock screen easily using Alfred
 3. open files/folders quickly using Alfred
 4. set alias in the shell profile
-5. highlighted shell: zsh + oh my zsh
+5. highlighted shell: zsh + oh my zsh (shell script that does this)
 
 ### Helpful keyboard shortcuts
 1. Text inputing: command + &#8592;/&#8594; can quickly move cursor to the left or the right 
 2. Quick tab switch in browser (for Safari): 'shift + command + &#8592;/&#8594;' moves the left/right tab
 3. Quick tab switch in browser (for Chrome): 'option + command + &#8592;/&#8594;' moves the left/right tab
 4. Quick tab switch in browser (Tested on Safari and Chrome): 'command + numbers (ranges from 1 to 9)'
-5. Open console in browser: 'option + command + i'
+5. Open development console in browser: 'option + command + i'
+6. Minimize application window: 'command + m'
 
 ### Misc. Macbook Tips and Tricks
 1. use Time Machine as backup
